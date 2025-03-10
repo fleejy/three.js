@@ -59,7 +59,7 @@
     "eslint-config-mdcs": "^4.2.3",
     "eslint-plugin-html": "^4.0.6",
     "google-closure-compiler": "20180805.0.0",
-    "http-server": "^0.11.1",
+    "http-server": "^14.1.1",
     "qunit": "^2.6.2",
     "rollup": "^0.65.2"
   },
